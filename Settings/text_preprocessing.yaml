@@ -1,0 +1,5 @@
+
+file_name: 'TEST_CP.csv'
+captions_fields_prefix: 'caption_{}'
+add_special_tokens: true
+maxlen: 0

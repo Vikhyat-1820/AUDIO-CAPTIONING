@@ -1,0 +1,17 @@
+
+
+
+
+
+feature_type: 'mfcc'
+
+mfcc:
+  sr: 44100
+  n_mfcc: 40
+
+mel:
+  sr: 44100
+  nb_fft: 1024
+  hop_size: 512
+  nb_mels: 128
+  window_function: 'hann'
