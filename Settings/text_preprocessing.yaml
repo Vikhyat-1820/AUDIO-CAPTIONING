@@ -1,5 +1,6 @@
-
-file_name: 'TEST_CP.csv'
-captions_fields_prefix: 'caption_{}'
-add_special_tokens: true
-maxlen: 0
+caption_list_file_path: C:/Users/Vikhyat/Desktop/ML/audio captioning/AUDIO CAPTIONING/features/caption_list_file.pkl
+captions_fields_prefix: caption_{}
+file_name: TEST_CP.csv
+maxlen: 22
+tokenizer_path: C:/Users/Vikhyat/Desktop/ML/audio captioning/AUDIO CAPTIONING/features/tokenizer.pkl
+vocab_size: 4369

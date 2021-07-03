@@ -3,7 +3,9 @@
 
 
 
-feature_type: 'mfcc'
+folder_name: 'TEST'
+feature_type: 'mel'
+nframes: 600
 
 mfcc:
   sr: 44100

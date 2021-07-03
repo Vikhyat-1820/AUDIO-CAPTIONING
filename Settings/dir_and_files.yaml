@@ -1,0 +1,4 @@
+Data_base_dir: "C:/Users/Vikhyat/Desktop/ML/audio captioning/AUDIO CAPTIONING/Data"
+text_proc_settings: "C:/Users/Vikhyat/Desktop/ML/audio captioning/AUDIO CAPTIONING/Settings/text_preprocessing.yaml"
+audio_proc_settings: "C:/Users/Vikhyat/Desktop/ML/audio captioning/AUDIO CAPTIONING/Settings/audio_preprocessing.yaml"
+data_set_creation: "C:/Users/Vikhyat/Desktop/ML/audio captioning/AUDIO CAPTIONING/Settings/data_set_creation.yaml"
