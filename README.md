@@ -12,7 +12,7 @@ is tested with Python 3.9.
 To set-up the code, you have to do the following: 
 
   1. Clone this repository.
-  2. Use pip to install dependencies ```` pip install requirement.txt ````
+  2. Use pip to install dependencies ```` pip install -r requirement.txt ````
   
 Use the following command to clone this repository at your terminal:
 
