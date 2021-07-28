@@ -6,13 +6,13 @@ Welcome to the repository of the audio captioning.
 ## Setting up the code
 
 To start using the audio captioning, firstly you
-have to set-up the code. Please **note bold** that the code in this repository
+have to set-up the code. Please that the code in this repository
 is tested with Python 3.9.
 
 To set-up the code, you have to do the following: 
 
   1. Clone this repository.
-  2. Use either pip to install dependencies
+  2. Use pip to install dependencies ```` pip install requirement.txt ````
   
 Use the following command to clone this repository at your terminal:
 
