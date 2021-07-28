@@ -53,7 +53,7 @@ All the required libraries are included in requirement.txt.
   
 ## DataSet
 
-The dataset used for audio captioning is clotho dataset. Clotho dataset is freely available online at the Zenodo platform. You can find Clotho at [here](https://zenodo.org/record/3490684#.YQFQkI4zYrM).
+The dataset used for audio captioning is clotho dataset. Clotho dataset is freely available online at the Zenodo platform. You can find Clotho dataset at [here](https://zenodo.org/record/3490684#.YQFQkI4zYrM).
 
 ## Training
 
