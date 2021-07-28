@@ -20,6 +20,8 @@ Use the following command to clone this repository at your terminal:
 $ git clone https://github.com/Vikhyat-1820/AUDIO-CAPTIONING.git
 ````
 
+All the required libraries are included in requirement.txt.
+
 ## Folder Structure
 
     AUDIO-CAPTIONING/
@@ -43,7 +45,26 @@ $ git clone https://github.com/Vikhyat-1820/AUDIO-CAPTIONING.git
      |   | - tokenizer.pkl/
      | - features/
      |   | - file_io.py/
+     | - Data/
+     |   | - TEST/
+     |   | - TEST_CP/
      
+     
+  
+## DataSet
+
+The dataset used for audio captioning is clotho dataset. Clotho dataset is freely available online at the Zenodo platform. You can find Clotho at [here](https://zenodo.org/record/3490684#.YQFQkI4zYrM).
+
+## Training
+
+Step 1 :- Run ```` python Text Preprocessing/Text_preprocessing.py```` in terminal, this will create two files in features folder.
+
+Step 2 :- Run ```` python Models/model.py ````. It will start training the model and create MODEL.H5 in models folder.
+
+
+ 
+
+
      
      
      
