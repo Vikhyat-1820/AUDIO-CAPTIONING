@@ -1,6 +1,6 @@
 # Audio captioning 
 
-Welcome to the repository of the audio captioning.
+Welcome to the repository of the audio captioning. This is a pipeline for audio captioning model. It will take data as input and train the audio captioner model. We can change the settings (hyperparameters and other file/folder dir) in settings folder.
 
 ----
 ## Setting up the code
